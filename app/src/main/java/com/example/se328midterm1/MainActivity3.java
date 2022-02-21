@@ -39,7 +39,7 @@ public class MainActivity3 extends ListActivity {
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.alfaisal.edu")));
                 break;
             case 1:
-                startActivity(new Intent(MainActivity3.this, picture.class));;
+                startActivity(new Intent(MainActivity3.this, Picture1.class));;
                 break;
             case 2:
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.alfaisal.edu")));

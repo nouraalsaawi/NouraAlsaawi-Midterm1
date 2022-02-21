@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SE328Midterm1">
         <activity
+            android:name=".Picture1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity3"
             android:exported="false" />
         <activity
