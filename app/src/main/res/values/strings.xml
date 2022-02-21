@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">[Noura Alsaawi]-MidTerm-1, 2022</string>
+
+    <string name="act1Title">You are in activity 1</string>
+    <string name="act2Title">You are in activity 2</string>
+    <string name="act3Title">You are in activity 3</string>
+
+    <string name="mainActButton">Go to main activity (1)</string>
+    <string name="Act2Button">Go to activity 2</string>
+    <string name="Act3Button">Go to activity 3</string>
+
+</resources>
